@@ -1,0 +1,37 @@
+
+body {
+    background-color: 	#000000;
+}
+
+.jumbo-back {
+    background-color: #6E116B;
+    color: white;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    object-fit: fill;
+
+}
+
+.card-images {
+    object-fit: cover;
+    height: 20rem;
+}
+
+.bg-darkg {
+    background: #123602;
+}
+
+.bg-darkp{
+    background: #301934;
+}
+
+.bg-darky{
+    background: #eab76a;
+}
+
+.bg-darkb{
+    background-color: #000000;
+}
